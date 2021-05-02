@@ -9,6 +9,6 @@ On a le camp Héros, qui représente le joueur 1, et le camp Dark, qui représen
 
 Le but est de détruire le « Nexus » du joueur adverse, qui représente les points de vie du joueur. La partie se termine donc lorsque l’un des deux Nexus est détruit. 
 
-A travers un système de cartes et de mana, les joueurs vont pouvoir invoquer des personnages unique et hauts en couleur, chacun ayant leurs propres pouvoirs et capacités. Dragon, chevalier, mage, ou autres créatures magiques, vont s'affronter dans une bataille épique au sommet … 
+A travers un système de cartes et de mana, les joueurs vont pouvoir invoquer des personnages unique et hauts en couleur, chacun ayant leurs propres pouvoirs et capacités. Dragon, chevalier, mage, ou autres créatures magiques, vont s'affronter dans une bataille épique au sommet… 
 
 Inspiré de jeux mobiles et de tactical RPGs comme Hearthstone ou Fire Emblem, les joueurs les plus aguerris pourront retrouver des mécaniques semblables et un univers familier.  
